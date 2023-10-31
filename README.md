@@ -12,7 +12,7 @@ To implement the kernel reduceUnrolling16 and comapare the performance of kernal
 ```python
 developed by : SATHISH R
 Register No : 212222230138
-```python
+```
 ```cuda
 %%cu
 #include <cuda_runtime.h>
